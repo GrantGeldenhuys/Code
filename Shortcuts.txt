@@ -1,0 +1,9 @@
+Shortcuts
+	Terminal
+	Ctrl+Shift+`
+	Command Pallet
+	Shift+Ctrl+P
+
+Run
+	Windows forms
+	dotnet run (Terminal)
